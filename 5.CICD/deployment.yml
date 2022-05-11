@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: student-6
-        image: registry.tanzu.dk/ops2devops/studentx:master
+        image: registry.tanzu.dk/ops2devops/student-6:master
         imagePullPolicy: Always
 ---
 apiVersion: v1
